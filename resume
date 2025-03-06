@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "实习经历",
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
@@ -26,9 +26,18 @@
         "2018.09.01",
         "2022.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "大连理工大学",
+      "major": "运动康复",
       "academic_degree": "本科"
+    }
+  {
+      "edu_time": [
+        "2022.09.01",
+        "2025.06.30"
+      ],
+      "school": "大连理工大学",
+      "major": "运动人体科学",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
@@ -37,21 +46,17 @@
       "award_time": ""
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "二等学业奖学金",
+      "award_time": "2022、2023、2024"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "“互联网+”校级二等奖、三等奖",
+      "award_time": "2022、2023"
     },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
+      "company_name": "",
       "department_name": "体验技术部",
       "work_time": [
         "2018.06",
